@@ -5,7 +5,11 @@ A scientific device aimed to provide electrochemical measurements with 3-electro
 ## Characteristic
 
 Powered from USB: 4.8-5 вольт
+
+
 Work electrode voltage range: -1.4..+1.4 V ± 2 mV
+
+
 Work electrode current ranges:
 - -1400 mkA..+1400 mkA ± 2 mkA
 - -14 mA..+14 mA ± 20 mkA
